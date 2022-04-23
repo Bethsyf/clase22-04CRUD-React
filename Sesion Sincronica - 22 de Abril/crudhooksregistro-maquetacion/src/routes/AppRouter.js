@@ -7,8 +7,10 @@ import {
  } from 'react-router-dom';
 //  Componentes
 import Navbar from '../components/Navbar';
-import Form from '../components/Form';
+
 import List from '../components/List';
+import Form from '../components/Form';
+
 
 const AppRouter = () => {
   return (
